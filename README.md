@@ -1,4 +1,4 @@
-# DevOps Assignment — Node.js, PostgreSQL & Nginx
+#  Node.js, PostgreSQL & Nginx
 
 A locally deployed backend application demonstrating essential DevOps practices, including application deployment, PostgreSQL integration, systemd service management, Nginx reverse proxy configuration, and API testing.
 
